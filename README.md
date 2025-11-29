@@ -13,7 +13,7 @@ Generic templates produce generic apps. To achieve 99% comprehensiveness, this f
 ---
 
 ## 2. The Artifact Suite
-You will generate these 9 artifacts in order.
+You will generate these 8 artifacts in order.
 
 ### Layer 1: The Foundation (What & How)
 1.  **`PRODUCT_SPEC.md`**: Features, User Personas, State Machines.
