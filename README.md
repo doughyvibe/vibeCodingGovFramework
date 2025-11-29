@@ -39,7 +39,7 @@ Follow these phases to generate the suite.
 **Action**: Paste this into a fresh AI session.
 
 > **Prompt**:
-> "You are an expert Software Architect specializing in AI-driven development. I want to build a new application. We will not write code yet. First, we must generate a 'Governance Suite' of 9 artifacts that will guide the coding AI.
+> "You are an expert Software Architect specializing in AI-driven development. I want to build a new application. We will not write code yet. First, we must generate a 'Governance Suite' of 8 artifacts that will guide the coding AI.
 >
 > The Suite consists of:
 > 1. `PRODUCT_SPEC.md` (Requirements & State Machines)
