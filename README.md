@@ -50,7 +50,6 @@ Follow these phases to generate the suite.
 > 6. `CODE_TEMPLATES.md` (Implementation & Domain Patterns)
 > 7. `DEVELOPMENT_PHASES.md` (Build Order & Context Scoping)
 > 8. `AI_WORKFLOW.md` (Prompts for the Builder AI)
-> 9. `AI_CHECKLIST.md` (Quality Control & Pitfalls)
 >
 > Acknowledge if you understand this goal. Wait for my product idea."
 
